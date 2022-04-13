@@ -14,7 +14,7 @@
     if (window.___browserSync___ === undefined && Number(localStorage.getItem('AdminLTE:Demo:MessageShowed')) < Date.now()) {
       localStorage.setItem('AdminLTE:Demo:MessageShowed', (Date.now()) + (15 * 60 * 1000))
       // eslint-disable-next-line no-alert
-      alert('You load AdminLTE\'s "demo.js", \nthis file is only created for testing purposes!')
+      //alert('You load AdminLTE\'s "demo.js", \nthis file is only created for testing purposes!')
     }
   }, 1000)
 
@@ -60,7 +60,7 @@
   // Checkboxes
 
   $container.append(
-    '<h5>Customize AdminLTE</h5><hr class="mb-2"/>'
+    '<h5>REST API | <em>triosihn</em></h5><hr class="mb-2"/>'
   )
 
   var $dark_mode_checkbox = $('<input />', {
@@ -86,9 +86,9 @@
     class: 'mr-1'
   }).on('click', function () {
     if ($(this).is(':checked')) {
-      $('body').addClass('layout-navbar-fixed')
-    } else {
       $('body').removeClass('layout-navbar-fixed')
+    } else {
+      $('body').addClass('layout-navbar-fixed')
     }
   })
   var $header_fixed_container = $('<div />', { class: 'mb-1' }).append($header_fixed_checkbox).append('<span>Fixed</span>')
