@@ -34,11 +34,11 @@ function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(
 		item_codeTri  = '';
 		for (var ee of e.item) {
 			item_codeTri += `<li class="nav-item">
-			<a ${ee.error ? 'href="javascript:void(0);"' : 'href="${ee.url.trim()}"' } target="_blank" class="nav-link">
+			<a ${ee.error ? `href="javascript:void(0);"` : `href="${ee.url.trim()}" target="_blank"` } class="nav-link">
 			<p>
 			⸙ ${capital(ee.name.trim())} 
 			${ee.event ? `<span class="right badge badge-danger">${ee.event.trim()}</span>`: ``}
-			${ee.error ? `<span class="right badge badge-danger">ERROR</span>`: ``}
+			${ee.error ? `<span class="right badge badge-danger">${ee.error}</span>`: ``}
 			</p>
 			</a>
 			</li>`;
