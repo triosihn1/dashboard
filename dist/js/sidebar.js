@@ -37,9 +37,7 @@ itemSidebar = [{
 		"url" : "/docs/api/tiktok?url=https://vt.tiktok.com/ZSdhTsAWd/",
 		"name" : "Video Tik Tok & Detail Video"
 		}, {
-			"url" : "/docs/api/instagram?url=Gabut people :v
-#views #likes #처럼 # 팔로어
-https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
+			"url" : "/docs/api/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
 		"name" : "Instagram"
 	}]
 	},{
