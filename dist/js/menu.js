@@ -131,7 +131,7 @@ function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(
 							<span class="direct-chat-name float-left">${capital(mess.name.trim())}</span>
 							</div>
 							<!-- /.direct-chat-infos -->
-							<img class="direct-chat-img" src="https://i.ibb.co/fHZ9cDL/undefined.jpg" alt="${capital(mess.name.trim())}">
+							<img class="direct-chat-img" src="https://i.ibb.co/Dzh2bgt/IMG-20220413-WA0040.jpg" alt="${capital(mess.name.trim())}">
 							<!-- /.direct-chat-img -->
 							<div class="direct-chat-text">
 							${mess.message}
