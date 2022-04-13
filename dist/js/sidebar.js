@@ -35,10 +35,10 @@ itemSidebar = [{
 	"icon" : "fas fa-download",
 	"item" : [{
 		"url" : "/docs/api/tiktok?url=https://vt.tiktok.com/ZSdhTsAWd/",
-		"name" : "Detail Video Tik Tok"
+		"name" : "Video Tik Tok & Detail Video"
 		}, {
 			"url" : "/docs/api/instagram?query=kontol",
-		"name" : "Instagram Download"
+		"name" : "Instagram"
 	}]
 	},{
 	"title" : "search",
