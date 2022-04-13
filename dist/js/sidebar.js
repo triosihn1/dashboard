@@ -40,7 +40,7 @@ itemSidebar = [{
 		"url" : "/docs/api/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
 		"name" : "Instagram reel & post"
 		}, {
-		"url" : "/docs/api/instagram_story?username=jessicajane99",
+		"url" : "/docs/api/instagram_story?query=triosihn_",
 		"name" : "Instagram story"
 	}]
 	},{
