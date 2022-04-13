@@ -37,8 +37,11 @@ itemSidebar = [{
 		"url" : "/docs/api/tiktok?url=https://vt.tiktok.com/ZSdhTsAWd/",
 		"name" : "Video Tik Tok & Detail Video"
 		}, {
-			"url" : "/docs/api/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
-		"name" : "Instagram"
+		"url" : "/docs/api/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
+		"name" : "Instagram reel & post"
+		}, {
+		"url" : "/docs/api/instagram_story?username=jessicajane99",
+		"name" : "Instagram story"
 	}]
 	},{
 	"title" : "search",
