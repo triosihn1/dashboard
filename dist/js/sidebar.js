@@ -44,7 +44,7 @@ itemSidebar = [{
 		"name" : "Instagram story",
 		"error" : "ERROR"
 	}, {
-		"url" : "/docs/api/youtube_mp4?url=https://youtu.be/IHMLFPhXleM",
+		"url" : "/docs/api/youtube?url=https://youtu.be/IHMLFPhXleM",
 		"name" : "You Tube MP4 & MP3",
 	}, {
 		"url" : "/docs/api/facebook?url=https://www.facebook.com/cartoonboxanimation/videos/1433518997002123/",
