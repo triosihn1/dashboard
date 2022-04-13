@@ -41,7 +41,8 @@ itemSidebar = [{
 		"name" : "Instagram reel & post"
 		}, {
 		"url" : "/docs/api/instagram_story?query=triosihn_",
-		"name" : "Instagram story"
+		"name" : "Instagram story",
+		"error" : "ERROR"
 	}]
 	},{
 	"title" : "search",
