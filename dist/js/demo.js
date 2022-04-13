@@ -101,9 +101,9 @@
     class: 'mr-1'
   }).on('click', function () {
     if ($(this).is(':checked')) {
-      $('.main-header').addClass('dropdown-legacy')
-    } else {
       $('.main-header').removeClass('dropdown-legacy')
+    } else {
+      $('.main-header').addClass('dropdown-legacy')
     }
   })
   var $dropdown_legacy_offset_container = $('<div />', { class: 'mb-1' }).append($dropdown_legacy_offset_checkbox).append('<span>Dropdown Legacy Offset</span>')
