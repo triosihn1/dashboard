@@ -35,14 +35,20 @@ itemSidebar = [{
 	"icon" : "fas fa-download",
 	"item" : [{
 		"url" : "/docs/api/tiktok?url=https://vt.tiktok.com/ZSdhTsAWd/",
-		"name" : "Video Tik Tok & Detail Video"
-		}, {
+		"name" : "Tik Tok & Detail Video"
+	}, {
 		"url" : "/docs/api/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
 		"name" : "Instagram reel & post"
-		}, {
+	}, {
 		"url" : "/docs/api/instagram_story?query=triosihn_",
 		"name" : "Instagram story",
 		"error" : "ERROR"
+	}, {
+		"url" : "/docs/api/youtube_mp4?url=https://youtu.be/IHMLFPhXleM",
+		"name" : "You Tube MP4 & MP3",
+	}, {
+		"url" : "/docs/api/facebook?url=https://www.facebook.com/cartoonboxanimation/videos/1433518997002123/",
+		"name" : "Facebook Video & Audio",
 	}]
 	},{
 	"title" : "search",
