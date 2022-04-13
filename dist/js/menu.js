@@ -1,6 +1,8 @@
 //Memanggil File Json
 
 try{
+//Matikan klik kanan
+function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(e){if(e.which==3)return false}}document.oncontextmenu=function(){return false};document.ondragstart=function(){return false};document.onmousedown=mousedwn
 	//Ambil tag html
 	tagMl = document.querySelector('[data-widget=treeview]');
 	tagBat = document.getElementById('batrai');
