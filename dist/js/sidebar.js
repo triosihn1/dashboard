@@ -64,6 +64,15 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/download/solidfiles?url=http://www.solidfiles.com/v/zdpVXjvRk8yaV",
 		"name" : "Solidfiles",
+	}, {
+		"url" : "/docs/api/download/mediafire?url=https://www.mediafire.com/file/pwxob70rpgma9lz/GBWhatsApp_v8.75%2528Tutorial_Yud%2529.apk/file",
+		"name" : "Mediafire",
+	}, {
+		"url" : "/docs/api/download/sound-cloud?url=https://soundcloud.com/user-943750457/jang-ganggu-shine-of-black",
+		"name" : "Sound Cloud",
+	}, {
+		"url" : "/docs/api/download/stickerpack?url=https://getstickerpack.com/stickers/bubu-dudu-1",
+		"name" : "Stiker Pack",
 	}]
 	},{
 	"title" : "search",
