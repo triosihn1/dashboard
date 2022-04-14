@@ -71,6 +71,9 @@ itemSidebar = [{
 		"url" : "/docs/api/download/sound-cloud?url=https://soundcloud.com/user-943750457/jang-ganggu-shine-of-black",
 		"name" : "Sound Cloud",
 	}, {
+		"url" : "/docs/api/download/joox?url=https://www.joox.com/id/single/9hTw6ZNo0VzArpfUizDBKg==",
+		"name" : "Joox",
+	}, {
 		"url" : "/docs/api/download/stickerpack?url=https://getstickerpack.com/stickers/bubu-dudu-1",
 		"name" : "Stiker Pack",
 	}]
