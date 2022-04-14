@@ -58,6 +58,12 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/download/pinterest?url=https://pin.it/Nt2fdSb",
 		"name" : "Pinterest Video & Image",
+	}, {
+		"url" : "/docs/api/download/pixiv?id=94216857&ext=.jpg",
+		"name" : "Pixiv Image",
+	}, {
+		"url" : "/docs/api/download/solidfiles?url=http://www.solidfiles.com/v/zdpVXjvRk8yaV",
+		"name" : "Solidfiles",
 	}]
 	},{
 	"title" : "search",
