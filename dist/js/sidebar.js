@@ -49,15 +49,16 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/facebook?url=https://www.facebook.com/cartoonboxanimation/videos/1433518997002123/",
 		"name" : "Facebook Video & Audio",
+	}, {
+		"url" : "/docs/api/twitter?url=https://twitter.com/PassengersMovie/status/821025484150423557",
+		"name" : "Twitter Video & Audio",
 	}]
 	},{
 	"title" : "search",
 	"icon" : "fas fa-search",
 	"item" : [{
-		"url" : "/docs/api/tiktok?query=kontol",
-		"name" : "google"
-		}, {
-			"url" : "/docs/api/instagram?query=kontol",
-		"name" : "wikipedia"
+		"url" : "/docs/api/twitter?url=https://twitter.com/PassengersMovie/status/821025484150423557",
+		"name" : "Test",
+		"error" : "Test Doang"
 	}]
 }]
