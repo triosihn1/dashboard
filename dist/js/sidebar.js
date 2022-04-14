@@ -81,8 +81,10 @@ itemSidebar = [{
 	"title" : "search",
 	"icon" : "fas fa-search",
 	"item" : [{
-		"url" : "/docs/api/download/twitter?url=https://twitter.com/PassengersMovie/status/821025484150423557",
-		"name" : "Test",
-		"error" : "Test Doang"
+		"url" : "/docs/api/search/google?query=triosihn_",
+		"name" : "Google",
+	}, {
+		"url" : "/docs/api/search/youtube?query=upin%20ipin",
+		"name" : "You Tube",
 	}]
 }]
