@@ -95,5 +95,14 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/search/alphacoders?query=genshin",
 		"name" : "Alphacoders Image",
+	}, {
+		"url" : "/docs/api/search/wallpaperscraft?query=sad",
+		"name" : "wallpaperscraft Image",
+	}, {
+		"url" : "/docs/api/search/wallpapercave?query=sad",
+		"name" : "wallpapercave Image",
+	}, {
+		"url" : "/docs/api/search/wallpaperflare?query=sad",
+		"name" : "wallpaperflare Image",
 	}]
 }]
