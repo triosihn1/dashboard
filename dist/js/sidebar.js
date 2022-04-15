@@ -40,7 +40,7 @@ itemSidebar = [{
 		"url" : "/docs/api/download/instagram?url=https://www.instagram.com/p/CMTfYtMjVSb/?igshid=MDJmNzVkMjY=",
 		"name" : "Instagram reel & post"
 	}, {
-		"url" : "/docs/api/download/instagram/story?query=triosihn_",
+		"url" : "/docs/api/download/instagram/story?query=yespirasi",
 		"name" : "Instagram story",
 		"event" : "New"
 	}, {
@@ -86,5 +86,14 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/search/youtube?query=upin%20ipin",
 		"name" : "You Tube",
+	}, {
+		"url" : "/docs/api/search/happymod?query=coc",
+		"name" : "Happy Mod",
+	}, {
+		"url" : "/docs/api/search/pixiv?query=anime",
+		"name" : "Pixiv Image",
+	}, {
+		"url" : "/docs/api/search/alphacoders?query=genshin",
+		"name" : "Alphacoders Image",
 	}]
 }]
