@@ -102,7 +102,7 @@ itemSidebar = [{
 		"url" : "/docs/api/search/jagokata?query=sad",
 		"name" : "Jago Kata",
 	}, {
-		"url" : "/docs/api/search/wallpaperflare?query=sad",
-		"name" : "wallpaperflare Image",
+		"url" : "/docs/api/search/whatsapp/group?query=gabut",
+		"name" : "Group WhatsApp",
 	}]
 }]
