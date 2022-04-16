@@ -87,6 +87,9 @@ itemSidebar = [{
 		"url" : "/docs/api/search/youtube?query=upin%20ipin",
 		"name" : "You Tube",
 	}, {
+		"url" : "/docs/api/search/wikipedia?query=jokowi",
+		"name" : "Wikipedia",
+	}, {
 		"url" : "/docs/api/search/happymod?query=coc",
 		"name" : "Happy Mod",
 	}, {
@@ -96,11 +99,8 @@ itemSidebar = [{
 		"url" : "/docs/api/search/alphacoders?query=genshin",
 		"name" : "Alphacoders Image",
 	}, {
-		"url" : "/docs/api/search/wallpaperscraft?query=sad",
-		"name" : "wallpaperscraft Image",
-	}, {
-		"url" : "/docs/api/search/wallpapercave?query=sad",
-		"name" : "wallpapercave Image",
+		"url" : "/docs/api/search/jagokata?query=sad",
+		"name" : "Jago Kata",
 	}, {
 		"url" : "/docs/api/search/wallpaperflare?query=sad",
 		"name" : "wallpaperflare Image",
