@@ -104,5 +104,8 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/search/whatsapp/group?query=gabut",
 		"name" : "Group WhatsApp",
+	}, {
+		"url" : "/docs/api/search/sticker/pack?query=bubu",
+		"name" : "Sticker Pack",
 	}]
 }]
