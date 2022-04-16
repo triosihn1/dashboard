@@ -111,9 +111,12 @@ itemSidebar = [{
 	},{
 	"title" : "photooxy",
 	"icon" : "fas fa-image",
-	"event" : "New",
+	"event" : "Scrape",
 	"item" : [{
 		"url" : "/docs/api/photooxy/tiktok/effect?text1=triosihn_&text2=api%20dari%20bang%20hadi",
 		"name" : "Tik Tok Effect",
+	}, {
+		"url" : "/docs/api/photooxy/flaming/fire?text1=triosihn_",
+		"name" : "Flaming Fire",
 	}]
 }]
