@@ -23,8 +23,7 @@ function mousedwn(e){try{if(event.button==2||event.button==3)return false}catch(
 		<a href="#" class="nav-link">
 		<i class="${e.icon.trim()} nav-icon"></i>
 		<p>${capital(e.title.trim())}
-		<span class="right badge badge-danger">Test</span>
-		${e.event ? `<span class="right badge badge-danger">${e.event.trim()}</span> <i class="right fas fa-angle-left"></i>`: `<i class="right fas fa-angle-left"></i>`}
+		${e.event ? `<span class="right badge badge-danger">${e.event.trim()}</span> <i class="right fas fa-angle-left"></i>`: `<i class="right fas fa-angle-left"></i><span class="right badge badge-danger">Test</span>`}
 		</p>
 		</a>
 		<ul class="nav nav-treeview">
