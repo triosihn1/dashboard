@@ -118,5 +118,47 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/photooxy/flaming/fire?text1=triosihn_",
 		"name" : "Flaming Fire",
+	}, {
+		"url" : "/docs/api/photooxy/shadow/sky?text1=triosihn_",
+		"name" : "Shadow Sky",
+	}, {
+		"url" : "/docs/api/photooxy/cup?text1=triosihn_",
+		"name" : "Cup",
+	}, {
+		"url" : "/docs/api/photooxy/romantic?text1=triosihn_",
+		"name" : "Romantic",
+	}, {
+		"url" : "/docs/api/photooxy/burn/paper?text1=triosihn_",
+		"name" : "Burn Paper",
+	}, {
+		"url" : "/docs/api/photooxy/love?text1=triosihn_",
+		"name" : "Love",
+	}, {
+		"url" : "/docs/api/photooxy/under/grass?text1=triosihn_",
+		"name" : "Under Grass",
+	}, {
+		"url" : "/docs/api/photooxy/royal/patterns?text1=triosihn_",
+		"name" : "Royal Patterns",
+	}, {
+		"url" : "/docs/api/photooxy/silk?text1=triosihn_",
+		"name" : "On The Silk",
+	}, {
+		"url" : "/docs/api/photooxy/sweet/candy?text1=triosihn_",
+		"name" : "Sweet Candy",
+	}, {
+		"url" : "/docs/api/photooxy/smoke/typography?text1=triosihn_",
+		"name" : "Smoke Typography",
+	}, {
+		"url" : "/docs/api/photooxy/woodblock/effect?text1=triosihn_",
+		"name" : "Woodblock Effect",
+	}, {
+		"url" : "/docs/api/photooxy/scary?text1=triosihn_",
+		"name" : "Text On Scary",
+	}, {
+		"url" : "/docs/api/photooxy/put/coffe/cup?text1=triosihn_",
+		"name" : "Put Coffe Cup",
+	}, {
+		"url" : "/docs/api/photooxy/neon/light?text1=triosihn_",
+		"name" : "Neon Light",
 	}]
 }]
