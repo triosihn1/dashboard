@@ -107,6 +107,9 @@ itemSidebar = [{
 	}, {
 		"url" : "/docs/api/search/sticker/pack?query=bubu",
 		"name" : "Sticker Pack",
+	}, {
+		"url" : "/docs/api/search/chord/gitar?query=satru",
+		"name" : "Chord Gitar",
 	}]
 	},{
 	"title" : "photooxy",
