@@ -164,4 +164,11 @@ itemSidebar = [{
 		"url" : "/docs/api/photooxy/neon/light?text1=triosihn_",
 		"name" : "Neon Light",
 	}]
+	},{
+	"title" : "Random Image",
+	"icon" : "fas fa-camera",
+	"item" : [{
+		"url" : "/docs/api/random/cewe/china",
+		"name" : "Cewe China",
+	}]
 }]
