@@ -170,22 +170,39 @@ itemSidebar = [{
 		"head" : "Asupan Cewe",
 	},{
 		"url" : "/docs/api/random/cewe/china",
-		"name" : "Cewe China",
+		"name" : "China",
 	},{
 		"url" : "/docs/api/random/cewe/japan",
-		"name" : "Cewe Jepang",
+		"name" : "Jepang",
 		"error": "Error",
 	},{
 		"url" : "/docs/api/random/cewe/korea",
-		"name" : "Cewe Korea",
+		"name" : "Korea",
 	},{
 		"url" : "/docs/api/random/cewe/vietnam",
-		"name" : "Cewe Vietnam",
+		"name" : "Vietnam",
 	},{
 		"url" : "/docs/api/random/cewe/justinaxie",
-		"name" : "Cewe Justinaxie",
+		"name" : "Justinaxie",
 	},{
 		"url" : "/docs/api/random/cewe/thailand",
-		"name" : "Cewe Thailand",
+		"name" : "Thailand",
+	},{
+		"head" : "Anime",
+	},{
+		"url" : "/docs/api/random/anime/waifu",
+		"name" : "Waifu",
+	},{
+		"url" : "/docs/api/random/anime/husbu",
+		"name" : "Husbu",
+	},{
+		"url" : "/docs/api/random/anime/milf",
+		"name" : "Milf",
+	},{
+		"url" : "/docs/api/random/anime/loli",
+		"name" : "Loli",
+	},{
+		"url" : "/docs/api/random/anime/cosplay",
+		"name" : "Cosplay",
 	}]
 }]
