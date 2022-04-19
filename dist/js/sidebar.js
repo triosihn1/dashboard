@@ -171,7 +171,7 @@ itemSidebar = [{
 		"url" : "/docs/api/random/cewe/china",
 		"name" : "Cewe China",
 	},{
-		"url" : "/docs/api/random/cewe/china",
+		"url" : "/docs/api/random/cewe/japan",
 		"name" : "Cewe Jepang",
 	},{
 		"url" : "/docs/api/random/cewe/korea",
