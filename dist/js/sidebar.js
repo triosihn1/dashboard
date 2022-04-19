@@ -114,7 +114,6 @@ itemSidebar = [{
 	},{
 	"title" : "photooxy",
 	"icon" : "fas fa-image",
-	"event" : "Scrape",
 	"item" : [{
 		"url" : "/docs/api/photooxy/tiktok/effect?text1=triosihn_&text2=api%20dari%20bang%20hadi",
 		"name" : "Tik Tok Effect",
@@ -168,11 +167,14 @@ itemSidebar = [{
 	"title" : "Random Image",
 	"icon" : "fas fa-camera",
 	"item" : [{
+		"head" : "Asupan Cewe",
+	},{
 		"url" : "/docs/api/random/cewe/china",
 		"name" : "Cewe China",
 	},{
 		"url" : "/docs/api/random/cewe/japan",
 		"name" : "Cewe Jepang",
+		"error": "Error",
 	},{
 		"url" : "/docs/api/random/cewe/korea",
 		"name" : "Cewe Korea",
